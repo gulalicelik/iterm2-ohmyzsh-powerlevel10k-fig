@@ -1,5 +1,7 @@
 # iterm2-ohmyzsh-powerlevel10k-fig
 
+![](https://media.giphy.com/media/HzGqcw6PrSRMRB8wqZ/giphy.gif)
+
 By following the steps below and using the configuration provided in the repo, you will have an iterm2 installation that can be opened in any window. Use the "F6" key to toggle at the end of the installation.
 
 # How to install
