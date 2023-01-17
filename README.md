@@ -1,5 +1,7 @@
 # iterm2-ohmyzsh-powerlevel10k-fig
 
+By following the steps below and using the configuration provided in the repo, you will have an iterm2 installation that can be opened in any window. Use the "F6" key to toggle at the end of the installation.
+
 # How to install
 
 ## Clone this repo
@@ -61,7 +63,7 @@ Or, if you do not have homebrew, [Download](https://fig.io/) and install Fig
 
      Replace the file named com.googlecode.iterm2.plist in the '/Users/{{your-user-name}}/Library/Preferences' directory with the file in the repo
 
-Everything is ok! You will now be able to use iterm2 as it opens in every window. The default power key in this configuration is F6.
+Everything is ok! You will now be able to use iterm2 as it opens in every window. The default toggle key in this configuration is F6.
 
 ## Visual Studio Code config
 
