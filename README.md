@@ -3,7 +3,7 @@
 # How to install
 
 
-## brew
+## Homebrew
 
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
@@ -12,7 +12,7 @@
 
     brew install --cask iterm2
 
-Or, if you do not have homebrew (you should ;)): [Download](http://www.iterm2.com/downloads.html) and install iTerm2
+Or, if you do not have homebrew, [Download](http://www.iterm2.com/downloads.html) and install iTerm2
 
 iTerm2 has better color fidelity than the built in Terminal, so your themes will look better.
 
