@@ -1,0 +1,1 @@
+# iterm2-ohmyzsh-powerlevel10k-fig
