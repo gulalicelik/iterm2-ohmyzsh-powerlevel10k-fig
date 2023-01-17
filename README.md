@@ -2,6 +2,11 @@
 
 # How to install
 
+## Clone this repo
+
+
+    git clone https://github.com/gulalicelik/iterm2-ohmyzsh-powerlevel10k-fig.git
+
 
 ## Homebrew
 
