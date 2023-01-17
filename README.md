@@ -47,7 +47,21 @@ If you want to trigger the configuration wizard immediately, simply run `p10k co
 
 Or, if you do not have homebrew, [Download](https://fig.io/) and install Fig
 
+## Change your .plist file
 
+### from terminal
+    cd /Users/{{your-user-name}}/Library/Preferences
+
+    mv com.googlecode.iterm2.plist com.googlecode.iterm2.old.plist    // rename your default .plist file
+
+    cp  {{your-repo-directory}}/iterm2-ohmyzsh-powerlevel10k-fig/com.googlecode.iterm2.plist /Users/{{your-user-name}}/Library/Preferences/
+
+
+### or manually
+
+     Replace the file named com.googlecode.iterm2.plist in the '/Users/{{your-user-name}}/Library/Preferences' directory with the file in the repo
+
+Everything is ok! You will now be able to use iterm2 as it opens in every window. The default power key in this configuration is F6.
 
 ## Visual Studio Code config
 
